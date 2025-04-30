@@ -1,12 +1,6 @@
 # In-Memory Key-Value Database with Transaction Support
 
-## This project implements an in-memory key-value database that supports transactions. It allows for all-or-nothing updates to ensure data consistency.
-Features
-
-    In-memory storage of string keys with integer values
-    Transaction support (begin, commit, rollback)
-    ACID-compliant operations
-    Detailed error handling
+This project implements an in-memory key-value database that supports transactions. It allows for all-or-nothing updates to ensure data consistency.
 
 ## How to Run
 Prerequisites
